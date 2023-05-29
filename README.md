@@ -24,8 +24,10 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 
+
 OUTPUT :
 ![image](https://github.com/sakthipriyadhanusu/EX-7/assets/119393194/ae4c7300-1cc2-4457-bfca-f2c417797585)
+
 
 RESULT :
 Thus, the python program for simulating Traceroute command was successfully executed.
